@@ -1,0 +1,12 @@
+body{
+  background-color: #b3d4fc;
+  text-align: justify;
+  font-size: xx-large;
+  font-style: italic;
+  padding-block: 20px;
+  margin-outside: 10px;
+  border: black;
+}
+h1{
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+h1{text-align: left;
+  font-size: xx-large;
+  font-weight: bold;
+}
+p1{
+  font-weight: lighter;
+  font-size: large;
+  font-style: italic;
+}
+p2{
+    font-weight: lighter;
+  font-size: large;
+  font-style: italic;
+}
+body{
+  background-color: #b3d4fc;
+  font-weight: normal;
+  font-size: large;
+  font-style:italic ;
+}
